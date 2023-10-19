@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+body{
+    font-family: 'Cormorant Garamond', serif;
+    background: rgb(238,150,242);
+    background: radial-gradient(circle, rgba(238,150,242,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+
+@import url('https://fonts.googleapis.com/css2? family= Pixelify+Sans & display=swap');
+
+h2{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.boton{
+    border-color: #4ef780;
+    border-style: double;
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    border-radius: 50px;
+
+}
+
+.formulario{
+    display: flex; 
+    justify-content: right;
+    align-items: right;
+}
+
+.titulo{
+    text-align: center;
+    background: rgb(222,2,250);
+background: linear-gradient(90deg, rgba(222,2,250,1) 25%, rgba(15,246,255,1) 75%);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin: -10px;
+    margin-top: -40px;
+}
